@@ -1,0 +1,34 @@
+{
+  "name": "rpi-gpio-epaper",
+  "version": "0.1.0",
+  "description": "Control e-paper modules on the Raspberry Pi GPIO with Node.js",
+  "main": "rpi-gpio-epaper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbushell/rpi-gpio-epaper.git"
+  },
+  "keywords": [
+    "raspberry pi",
+    "rpi",
+    "pi",
+    "epaper",
+    "e-paper",
+    "gpio",
+    "spi",
+    "node",
+    "javascript"
+  ],
+  "author": "David Bushell <david@dbushell.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbushell/rpi-gpio-epaper/issues"
+  },
+  "homepage": "https://github.com/dbushell/rpi-gpio-epaper#readme",
+  "dependencies": {
+    "rpi-gpio": "^0.8.1",
+    "spi": "^0.2.0"
+  }
+}
