@@ -1,6 +1,6 @@
 {
   "name": "rpi-gpio-epaper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Control e-paper modules on the Raspberry Pi GPIO with Node.js",
   "main": "rpi-gpio-epaper.js",
   "scripts": {
@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/dbushell/rpi-gpio-epaper#readme",
   "dependencies": {
+    "chalk": "^2.1.0",
     "rpi-gpio": "^0.8.1",
     "spi": "^0.2.0"
   }
