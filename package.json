@@ -1,6 +1,6 @@
 {
   "name": "rpi-gpio-epaper",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Control e-paper modules on the Raspberry Pi GPIO with Node.js",
   "main": "rpi-gpio-epaper.js",
   "scripts": {
